@@ -3,7 +3,7 @@
 ## Integrantes del equipo
 - Nicolas Cayeta
 - Marcelo Tevez
-- Julián Gorosito
+- Rodrigo Julián Gorosito
 - Diego Wasiejko
 
 ## Carrera
