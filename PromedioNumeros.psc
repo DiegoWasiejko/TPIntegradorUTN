@@ -1,4 +1,5 @@
 Algoritmo PromedioNumeros
+//Comienza el algoritmo para calcular el promedio de números ingresados por el usuario
 
 //Se inicializan suma y contador en cero(0)
 Definir numero, suma, contador Como Real
