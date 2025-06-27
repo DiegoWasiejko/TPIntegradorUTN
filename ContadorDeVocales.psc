@@ -8,7 +8,7 @@ Algoritmo ContadorDeVocales
     Definir caracter Como Cadena
 	
     cantidadVocales <- 0
-//Acciones en pantalla	
+//Acciones en pantalla	y teclado
     Escribir "Ingrese una palabra o frase:"
     Leer texto
 	
