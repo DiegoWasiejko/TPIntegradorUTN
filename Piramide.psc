@@ -1,5 +1,5 @@
-Algoritmo PiramideDeNumeros
 //El proposito de este algoritmo es imprimir una piramide numerica
+Algoritmo PiramideDeNumeros
 
 //Definimos variables y la interaccion con el usuario al ingresar datos	
     Definir n, i, j, espacios Como Entero
